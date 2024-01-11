@@ -14,7 +14,11 @@ print(num)
 print(f"Essa lista tem {len(num)} elementos") """
 
 
-num = 1
+
+
+
+#NOVO RASCUNHO
+""" num = 1
 valores = []
 
 for count in range(0,4):
@@ -26,4 +30,8 @@ valores.sort(reverse=True)
 for c, v in enumerate(valores):
     print(f"Na posição {c} encontrei o valor {v}")
 print("Chegamos ao final da lista")
-print(f"O maior valor é {valores[0]} e o menor valor é {valores[len(valores)-1]}")
+print(f"O maior valor é {valores[0]} e o menor valor é {valores[len(valores)-1]}") """
+
+
+
+#NOVO RASCUNHO
