@@ -36,7 +36,9 @@ print(f"O maior valor é {valores[0]} e o menor valor é {valores[len(valores)-1
 
 #NOVO RASCUNHO
 
-dados = { 'nome': 'Pedro','idade':25}
+""" dados = { 'nome': 'Pedro','idade':25}
 
 for k,v in dados.items():
-    print(f"O {k} é {v}")
+    print(f"O {k} é {v}") """
+
+
